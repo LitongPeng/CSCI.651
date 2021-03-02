@@ -28,4 +28,4 @@ Packet:		timestamp
 		Process the first 64 bytes of the packet – all fields and their meanings
 
 Required packet types: 802.2, 802.3, ARP, ICMP, IGMP, IPv4, TCP, UDP, STP – additional processing may required to determine port numbers or message type.
-![image](https://user-images.githubusercontent.com/60895337/109706610-2951b280-7b67-11eb-8b9d-9c39c2ba4207.png)
+
